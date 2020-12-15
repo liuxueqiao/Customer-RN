@@ -1,2 +1,3 @@
-# Customer-RN
-ReactNative项目框架
+# React Native Demo
+
+ReactNative 项目模版
